@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biodata Pribadi</title>
+    <title>BIODATA</title>
     <style>
         * {
             margin: 0;
@@ -357,7 +357,7 @@
                 <img src="Merlin.png" alt="Ikon Profil">
             </div>
             
-            <h1>💫 BIODATA PRIBADI 💫</h1>
+            <h1>💫 MY PROFIL 💫</h1>
             
             <!-- Sub Bagian Profil -->
             <h2 id="profil">👤 Profil Pribadi</h2>
@@ -367,7 +367,7 @@
                 </div>
                 
                 <div class="profil-teks">
-                    <p>Nama saya <strong>Merlyn Zebua</strong> 🥰, lahir di Orahili Tumori, Gunungsitoli pada tanggal <strong>03 Maret 2008</strong> 🎂. Saya seorang pelajar di SMK dengan jurusan <strong>Teknik Komputer dan Jaringan</strong> 💻🔌.</p>
+                    <p>Nama saya <strong>Merlyn Permata I. Zebua</strong> 🥰, lahir di Orahili Tumori, Gunungsitoli pada tanggal <strong>03 Maret 2008</strong> 🎂. Saya seorang pelajar di SMK dengan jurusan <strong>Teknik Komputer dan Jaringan</strong> 💻🔌.</p>
                     <br>
                     <p>Saya memiliki sifat yang tekun 📖, bertanggung jawab 🤝, dan senang belajar hal baru 🆕. Saat ini saya sedang mengembangkan keterampilan di bidang <strong>HTML Hyper Text Markup Language</strong> 📝 dan berharap dapat berkontribusi positif dalam pekerjaan yang saya geluti 💪.</p>
                 </div>
@@ -383,7 +383,7 @@
             <!-- Sub Bagian Prestasi -->
             <h2 id="prestasi" style="margin-top: 2rem;">🏆 Prestasi</h2>
             <div class="profil-teks" style="background-color: #f0f4ff; padding: 1.5rem; border-radius: 8px;">
-                <p><strong>Tahun 2024:</strong> Juara 3 Lomba Pembuatan Website Sederhana Tingkat Kabupaten 🥉</p>
+                <p><strong>Tahun 2024:</strong> Juara 3 Lomba Pembuatan Website Sederhana Tingkat Nasional 🥉</p>
                 <p><strong>Tahun 2023:</strong> Peserta Seleksi Olimpiade Sains Komputer Tingkat Provinsi 📋</p>
             </div>
         </section>
